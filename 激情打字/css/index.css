@@ -1,0 +1,28 @@
+*{
+	font-family: "楷体";
+}
+body{
+	text-align: center;
+	height: 580px;
+	background:-webkit-linear-gradient(
+	top,#FFB90F,white,white
+	);
+}
+table{
+	margin: auto;
+	margin-top: 140px;
+	height: 400px;
+	width: 500px;
+}
+form{
+	text-align: center;
+}
+td{
+	margin-top:80px ;
+}
+input{
+	border: 0px;
+	font-size: 58px;
+	width: 300px;
+	background-color:#FFEC8B;
+}

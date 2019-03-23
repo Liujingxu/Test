@@ -1,0 +1,47 @@
+*{
+	font-family: "楷体";
+}
+
+
+body{
+	align-content: center;
+	align-items: center;
+}
+
+table{
+	text-align: center;
+}
+td{
+	padding: 0px;
+	border: 0px;
+	height: 50px;
+	width: 1500px;
+}
+input{
+	border: 0px;
+}
+
+.text{
+	
+	height: 45px;
+	width: 1500px;
+	font-size: 25px;
+}
+#td_en{
+	background: #FFB90F;
+	font-size: 25px;
+	text-align: left;
+}
+
+.span{
+	background-color: #FFB90F;
+	height: 60px;
+	width: 150px;
+	font-size: 30px;
+	text-align: center;
+	line-height: 60px;
+	float: left;
+	margin-right: 100px;
+	margin-left: 120px;
+	margin-top: 65px;
+}
