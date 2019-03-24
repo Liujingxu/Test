@@ -22,12 +22,12 @@ input{
 }
 
 .text{
-	
+
 	height: 45px;
 	width: 1500px;
 	font-size: 25px;
 }
-#td_en{
+.td_en{
 	background: #FFB90F;
 	font-size: 25px;
 	text-align: left;
